@@ -77,7 +77,3 @@ Each segment includes tailored strategies such as:
 - Upsell big spenders with premium bundles
 - Nurture promising and new customers with incentives
 
-## 📁 How to Use This Repo
-Open the Jupyter Notebook for EDA, SQL execution, and RFM logic
-Review SQL files for all transformations
-Open the Power BI dashboard (PBIX file) for interactive exploration
